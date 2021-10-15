@@ -1,0 +1,1 @@
+uygulama çalışmazsa "games32.application" uygulamasını aç.
